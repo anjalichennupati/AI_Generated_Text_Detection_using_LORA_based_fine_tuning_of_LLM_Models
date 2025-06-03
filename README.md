@@ -22,6 +22,14 @@ This project addresses SemEval 2024 Task 8 Subtask A, which involves binary clas
 - Performance analysis across familiar and unfamiliar domains
 - Balanced training using undersampling and structured preprocessing
 - Domain generalization evaluation on OUTFOX dataset and GPT-4 generated content
+- Results for the models using Adam Optimizer:
+  <p align="center">
+    <img src="https://i.postimg.cc/9Qr4PtFZ/x2.png" alt="App Screenshot" width="400">
+  </p>  
+- Results for the models using LoRA:
+  <p align="center">
+    <img src="https://i.postimg.cc/y6jWwrD0/x3.png" alt="App Screenshot" width="400">
+  </p>  
 
 ## Dataset
 
