@@ -4,6 +4,8 @@
 
 This project addresses SemEval 2024 Task 8 Subtask A, which involves binary classification of text as either human-written or machine-generated. It leverages transformer-based models—RoBERTa, BART, and GPT-2—and applies parameter-efficient fine-tuning with LoRA to improve classification accuracy and computational efficiency. The system is tested on both familiar and unfamiliar domains using the official SemEval dataset and demonstrates strong generalization across varying text sources and styles.
 
+Notably, RoBERTa fine-tuned with LoRA achieved an F1-score of 0.96 on AI-generated content in the familiar domain, while BART with LoRA performed best in the unfamiliar domain with an F1-score of 0.88, demonstrating strong generalization and adaptability across varying contexts.
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
